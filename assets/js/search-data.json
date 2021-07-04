@@ -15,9 +15,9 @@
         ,"post1": {
             "title": "제목!!",
             "content": "!pip3 install colabTurtle . Collecting colabTurtle Downloading https://files.pythonhosted.org/packages/08/6f/619066317c24cd988979ad1b8c7b324c09ee1c408bfd88926889d6a62d99/ColabTurtle-2.1.0.tar.gz Building wheels for collected packages: colabTurtle Building wheel for colabTurtle (setup.py) ... done Created wheel for colabTurtle: filename=ColabTurtle-2.1.0-cp37-none-any.whl size=7661 sha256=4897db90fb5846468cc705c185425446ab7bc6aac0c5fe1bebca6e3aaf3d9659 Stored in directory: /root/.cache/pip/wheels/df/e9/3f/df3fccd8971c5473dc0c6450984cd057de8c9a1271069ebf18 Successfully built colabTurtle Installing collected packages: colabTurtle Successfully installed colabTurtle-2.1.0 . !pip install ColabTurtle from ColabTurtle.Turtle import * initializeTurtle() for i in range(5): forward(50) left(72) for i in range(5): forward(200) left(144) . import ColabTurtle.Turtle as t #t.initializeTurtle() t.bgcolor(&#39;skyblue&#39;) t.color(&#39;blue&#39;) t.speed(3) for i in range(3): t.fd(150) t.rt(120) t.pu() t.goto(200,150) t.pd() t.color(&#39;gold&#39;) for i in range(1,5): t.fd(100) t.rt(90) t.pu() t.goto(300,400) t.pd() t.color(&#39;orange&#39;) for i in range(1,6): t.fd(100) t.rt(144) .",
-            "url": "https://anakiii.github.io/testblog/python/turtle/2021/07/02/_07_03_turtle.html",
-            "relUrl": "/python/turtle/2021/07/02/_07_03_turtle.html",
-            "date": " • Jul 2, 2021"
+            "url": "https://anakiii.github.io/testblog/python/turtle/2021/07/03/_07_03_turtle.html",
+            "relUrl": "/python/turtle/2021/07/03/_07_03_turtle.html",
+            "date": " • Jul 3, 2021"
         }
         
     
